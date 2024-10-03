@@ -18,7 +18,7 @@ p {
   }
 </style>
 <h1>Francisco Simão</h1>
-<h2>Eu sou Video com ...</h2>
+<h2>Eu sou Vídeo com ...</h2>
 <h3>Vídeos e eu...</h3>
 <h3>Fotos e Imagens...</h3>
 <h3>Foto</h3>
